@@ -1,0 +1,178 @@
+¡Error!
+No se encuentro Regnum.
+Inserta camino al directorio aquí.
+Ejecutas RegnumLogin por primera vez.
+Iniciando Regnum Online
+No &indicar más.
+Ve al &Changelog:
+Nombre
+Editar
+Borrar
+Nuevo
+Editar cuenta
+Insertar nombre de la cuenta (o usa el Manager):
+Contraseña:
+Añadir cuenta
+Tema de
+Crear acceso directo
+Seleccionar nombre:
+Error: parámetro incorrecto
+Caída:
+Cuentas o contraseñas incompletas.
+Se guarda una copia de seguridad.
+Añadir entrada.
+Último
+Nombre
+Contraseña
+Buscar
+Terminar
+Guardar
+&Atrás
+Reino:
+Servidor:
+Buscar:
+Jugador
+Clan
+Cargando...
+Progreso:
+Estado:
+Salida:
+Nivel:
+RP:
+XP:
+Oro:
+Aventuras:
+Tipo:
+Raza y categoría:
+Miembros:
+Gracias a
+ para su código.
+Guardado!
+Archivo guarduado en:
+¡Bienvenido!<br>Aquí puedes reportar errores y<br>presentar sugerencias de mejora.
+Idioma:
+En primer lugar, necesito algo de información general:
+Nombre:
+E-mail:
+Sistema operativo:
+Ahora necesito algo de información sobre el programa:
+Programa:
+Versión:
+Camino al Log.txt:
+Ahora llegamos a lo real:
+Quiero algo que decirle al programa.
+Un comentario general:
+Quisiera informar de un error.
+Por favor, añadir una descripción del error:
+Tengo una sugerencia para la mejora.
+Por favor, describe la propuesta:
+Conectado:
+Conectado
+Desconectado
+Error de descarga:
+Error de descarga
+Fuerte:
+Castillo:
+Bárbaro
+Caballero
+Cazador
+Tirador
+Conjurador
+Brujo
+Mago
+Guerrero
+Arquero
+Elfo oscuro
+Esquelio
+Molok
+Enano
+Nordo
+Uthgar
+Elfo del bosque
+Alturian
+Medio Elfo
+Borrar carpeta temporal.
+Reinicilizar salida.
+Determinar el tipo
+Tipo: Jugador
+Tipo: Clan
+Crear URL.
+Url:
+Adaptar el idioma.
+¡Terminado!
+Propiedad de
+¡Invasión!
+&Vale
+Estos reinos están en peligro:
+&Comenzar
+&Opciones
+Tema:
+Camino:
+Empezar con la &actualización
+Crear acceso directo en el escritorio
+Permitir acceso a internet
+Buscar actualizaciones al iniciar
+Ventana emergente para la administración de la cuenta (no recomendado)
+Inicio automático de una cuenta
+Ocultar contraseña
+Bitácora:
+Intervalo (segundos):
+Borrar datos personales
+&Cancelar
+&Guardar
+Advertencia de invasión (Beta)
+¿Seguro?
+¿Borrar todos los datos personales?
+Paso 1/2
+Cierra todos los programas abiertos de Tools 4 Regnum.
+Paso 2/2
+¡Todos los archivos se han borrado!<br>El programa se va a finalizar.
+Mostrar mensaje de bienvenida
+En primer lugar, debes permitir la conexión a Internet.
+¿Estás seguro que quieres cancelar?
+¡Atención! ¡El programa podría parecer congelar!
+Actualización terminada
+Proceso terminado
+Los datos se actualizan
+¡Servidor no es accesible!
+Datos actualizados
+Lista de archivos
+Se comprobará si archivos sin usar están disponibles.
+Temas
+Hay nuevas versiones de temas.<br>¿Va al área de descarga?<br>A continuación todos los temas obsoletos:<br>
+Archivos obsoletos
+Hay nuevas versiones de los archivos.<br>¿Deseas actualizar los archivos?<br>-Atención: Aplicación supuestamente podría interrumpirse<br>-Cierra todas las aplicaciones abiertas de t4r<br>-A continuación todos los archivos obsoletos o dañados:<br>
+Descargando...
+General
+El lanzador está obsoleta.<br>¿Descargar?
+Seguimiento automático: Los siguientes datos se transmitirán: versiones, IP, mensaje de bienvenida, el idioma y el tema
+Resumen de las gemas
+Información
+Para finalizar la actualización, la aplicación ahora reinicia.
+&Búsqueda profunda
+La búsqueda profunda activa la busca en los subrankings (dura).
+Elegir nombre
+Error al memorizar. Por favor, elije un nuevo nombre:
+Clic derecha para editar.
+Bienvenido.<br>¿Realmente quieres borrar Regnum Online?
+Pulse Entrar para continuar.
+¿Quieres una copia de tus capturas de pantalla en el escritorio (se necesita el doble del espacio del disco como los capturas de pantalla necesitan)?
+Pulse n para no o Entrar para sí.
+Guardando capturas de pantalla...
+Capturas de pantalla no se guardan. Proceder con borrar.
+Iniciando script...
+Intervalo de tiempo en segundos:
+El archivo de configuración no se ha encontrado. La aplicación se actualiza para corregir el problema.
+La lista de programas ahora está sincronizandose...
+¡Nombre de la muestra no se encuentra!
+Aplicación no se encuentra.
+Hacia &arriba
+Hacia a&bajo
+Inicializar con el &lanzador
+&Eleminar entrada
+Nueva &aplicación
+Camino absoluto
+Nombre de la muestra:
+Camino/URL (?):
+Para abrir una página Web necesitas activar la opción "Camino absoluto" y tienes que anteponer "http://" a la URL.
+Ficheros no han podido sincronizado. El programa se termina ahora.

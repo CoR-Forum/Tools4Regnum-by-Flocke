@@ -1,0 +1,202 @@
+Fehler!
+Regnum wurde nicht gefunden.
+Hier Ordnerpfad einfügen.
+Du führst RegnumLogin zum ersten mal aus.
+Regnum Online wird gestartet
+Nicht mehr &Anzeigen.
+&Gehe zu Changelog:
+Name
+Bearbeiten
+Löschen
+Neu
+Account bearbeiten
+Accountname eingeben (alternativ den Manager verwenden):
+Passwort: 
+Account hinzufügen
+Theme von 
+Verknüpfung erstellen
+Name wählen:
+Fehler: Falsche Parameter
+Crash: 
+Accounts oder Passwörter unvollständig.
+Ein Backup wird gespeichert.
+Eintrag hinzufügen.
+Letzter
+Name
+Passwort
+Suchen
+Beenden
+Speichern
+&Zurück
+Reich:
+Server:
+Suchen nach:
+Spieler
+Clan
+Laden...
+Fortschritt:
+Status:
+Ausgabe:
+Level: 
+RP: 
+XP: 
+Gold: 
+Quests: 
+Typ: 
+Rasse und Klasse: 
+Mitglieder: 
+Danke an 
+ für seinen Code.
+Gespeichert!
+Datei gespeichert unter:  
+Willkommen!<br>Hier kannst du Fehler melden und<br>Verbesserungsvorschläge abgeben.
+Sprache: 
+Als erstes brauche ich ein paar allgemeine Informationen: 
+Name:
+E-Mail:
+Betriebssystem:
+Jetzt brauche ich ein paar Informationen zum Programm:
+Programm:
+Version:
+Pfad zur Log.txt:
+Nun kommen wir zur eigentlichen Sache:
+Ich möchte etwas zu dem Programm sagen.
+Allgemeines Feedback:
+Ich möchte einen Fehler melden.
+Bitte füge eine Beschreibung des Fehlers ein:
+Ich habe einen Verbesserungsvorschlag.
+Bitte beschreibe den Vorschlag:
+Online:
+Online
+Offline
+Download fehlgeschlagen:  
+Downloadfehler
+Fort: 
+Burg: 
+Barbar
+Ritter
+Jäger
+Schütze
+Beschwörer
+Hexenmeister
+Magier
+Krieger
+Bogenschütze
+Dunkelelf
+Skelics
+Molok
+Zwerg
+Nordo
+Uthgar
+Waldelf
+Alturianer
+Halbelf
+Temporären Ordner löschen.
+Setze Ausgabe zurück.
+Bestimmen des Typs.
+Typ: Spieler
+Typ: Clan
+Erstelle URL.
+Url: 
+Sprache anpassen.
+Fertig!
+Im Besitz von 
+Invasion!
+&OK
+Diese Reiche sind in Gefahr:
+&Starten
+&Optionen
+Theme: 
+Pfad: 
+Akt&ualisierung starten
+Verknüpfung auf dem Desktop erstellen
+Erlaube Internetverbindung
+Überprüfe beim Start auf Updates
+PopUp zur Accountverwaltung<br>(nicht empfohlen)
+Automatischer Start eines Accounts
+Passwort verstecken
+Changelog:
+Intervall (Sekunden): 
+Persönliche Daten löschen
+&Abbrechen
+&Speichern
+Invasionswarnung (Beta)
+Wirklich durchführen?
+Alle persönlichen Daten löschen?
+Schritt 1/2
+Schließe alle offenen Tools 4 Regnum-Programme.
+Schritt 2/2
+Alle Dateien wurden gelöscht!<br>Das Programm wird nun beendet.
+Willkommensnachricht anzeigen
+Du musst erst die Internetverbindung erlauben.
+Wirklich abbrechen?
+Achtung! Die Anwendung könnte scheinbar einfrieren!
+Update abgeschlossen
+Vorgang abgeschlossen
+Daten werden aktualisiert
+Server nicht erreichbar!
+Daten aktualisiert
+Dateiliste
+Es wird überprüft, ob veraltete Dateien vorhanden sind.
+Themes
+Es sind neue Themeversionen verfügbar.<br>Soll der Downloadbereich geöffnet werden?<br>Nachfolgend alle veralteten Themes:<br>
+Veraltete Dateien
+Es sind neue Dateiversionen verfügbar.<br>Sollen die Dateien aktualisiert werden?<br>-Achtung Anwendung könnte vermeintlich einfrieren<br>-Schließe alle offenen t4r-Anwendungen<br>-Nachfolgend alle veralteten/beschädigten Dateien:<br>
+Downloaden...
+Allgemein
+Der Launcher ist veraltet.<br>Downloaden?
+Trackback: Folgende Daten werden übertragen: Versionen, IP, Willkommensnachricht, Sprache und Theme
+Edelsteinübersicht
+Information
+Um den Updatevorgang abzuschließen wird die Anwendung jetzt neugestartet.
+Ti&efensuche
+Die Tiefensuche aktiviert die Suche in den Subrankings (dauert länger).
+Name wählen
+Beim Speichern ist ein Fehler aufgetreten. Bitte vergib einen neuen Namen:
+Rechtsklicken zum Bearbeiten.
+Willkommen.<br>Willst du Regnum Online wirklich loeschen?
+Druecke Enter um Fortzufahren.
+Willst du das deine Screenshots auf dem Desktop gesichert werden (es wird doppelt so viel Festplattenspeicher benötigt, wie die Screenshots an Platz brauchen)?
+Gebe n ein fuer nein oder druecke Enter fuer ja.
+Screenshots werden gesichert...
+Screenshots werden nicht gesichert. Fortfahren mit loeschen.
+Script starten ...
+Zeitintervall in Sekunden: 
+Die Konfigurationsdatei konnte nicht gefunden werden. Die Anwendung wird aktualisiert, um das Problem zu beheben.
+Die Programmliste wird jetzt synchronisiert...
+Anzeigename nicht gefunden!
+Anwendung nicht gefunden.
+Nach &Oben
+Nach &Unten
+Mit dem &Launcher starten
+&Eintrag löschen 
+Neue &Anwendung
+Absoluter Pfad
+Anzeigename: 
+Pfad/URL (?):
+Um eine Webseite öffnen zu können, muss die Option "Absoluter Pfad" aktiviert sein und der URL muss "http://" voranstehen.
+Dateien konnten nicht synchronisiert werden. Das Programm wird jetzt beendet.
+Senden
+Zu sendender Text:
+Chatziel
+Clan
+Party
+Normal
+Chatfunktionen:
+Du musst Regnum starten, damit  RACHACH funktionieren kann.
+Das Programm wird jetzt beendet.
+Spruch bearbeiten
+Wiederholrate (in s)
+Funktion auswählen
+/me (...)
+Begrüßung
+Verabschiedung
+Privatchat starten (...)
+In die Party einladen (...)
+Weitere Informationen benötigt
+Name eingeben:
+&Begrüßungen bearbeiten
+&Verabschiedungen bearbeiten
+Bitte warten ...
+Bitte warte während der Text gesendet wird. Drücke dabei keine Taste!
+Skillpunkte zurücksetzen
